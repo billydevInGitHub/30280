@@ -1,0 +1,38 @@
+#build folder
+build/
+
+#node_modules
+node_modules
+
+**/target/classes
+**/bin/
+
+# Maven
+target/
+.mvn/
+
+#Gradle
+gradle
+.gradle/
+
+# Ignore Gradle GUI config
+gradle-app.setting
+
+# Eclipse
+/.classpath
+/.settings/
+/.project
+/bin/
+
+# IntelliJ
+.idea
+*.iml
+*.ipr
+*.iws
+
+# Misc
+*.log
+
+#audio
+*.mp3
+*.jpg
